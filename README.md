@@ -42,8 +42,7 @@ When I’m not diving into cybersecurity frameworks or quantum computing researc
 ---
 
 ### 📊 GitHub Stats
-#![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeneryCash&theme=tokyonight&hide_border=true)
-#![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeneryCash&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ---
 
