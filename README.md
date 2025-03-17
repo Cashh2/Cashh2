@@ -9,7 +9,7 @@ A Community Where Curiosity Fuels Innovations
 ---
 
 ### 🏯 About Me
-Hey there! I'm **Henery Cash**, an ** American** cybersecurity specialist with a passion for **global policies, foreign affairs, and the evolving cyber landscape**. I graduated from **Indiana University**, and I’m on a mission to shape **cybersecurity at an international level**—because digital borders matter just as much as physical ones. 🌍
+Hey there! I'm **Henery Cash**, an **American** cybersecurity specialist with a passion for **global policies, foreign affairs, and the evolving cyber landscape**. I graduated from **Indiana University**, and I’m on a mission to shape **cybersecurity at an international level**—because digital borders matter just as much as physical ones. 🌍
 
 When I’m not diving into cybersecurity frameworks or quantum computing research, you’ll find me binging my favorite anime, debating power levels, and finding inspiration in the world of **mechs, hackers, and strategic masterminds**. 🚀
 
